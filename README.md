@@ -1,2 +1,3 @@
 # Hourly-POT-Calculation
-Hourly Reference Evapotranspiration Calculatin
+Python implementation of the Penman-Monteith (hourly) Reference Evapotranspiration
+Equations for Estimating ETos and ETrs with Hourly Weather Data
